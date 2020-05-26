@@ -1,0 +1,18 @@
+Bd build settings liens de test
+
+databases.user=admin
+databases.password=admin
+databases.host=10.0.102.55
+databases.port=3311
+
+
+bdtest: testCNPLOT2_13
+
+------------------- POUR JACOB
+
+information Bd pour déploiement lien de test :
+10.0.100.152
+-P3307
+admin
+admin
+CNPTEST65804

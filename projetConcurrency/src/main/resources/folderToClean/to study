@@ -1,0 +1,8 @@
+to study patterns to be the best
+
+Proxy pattern
+Template pattern
+Observer pattern
+Command pattern (use by solapcore) but with abstract classes
+Mediator pattern (DispactherServlet in spring)
+Interpreter pattern (Spring expression language)

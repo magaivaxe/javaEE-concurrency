@@ -1,0 +1,66 @@
+SFD: 
+
+Z:\gestion_projets_courant\CNP\Lot 1
+ 
+Z:\gestion_projets_courant\CNP\Lot 2\Chantier
+
+CID:
+
+Z:\gestion_projets_courant\CNP\CID\Équipe 3\Documents reçus\3 - exemples fichiers\fichierExempleCID
+
+
+---------------------------
+ajouter le montant restant font compte client
+
+BD distante
+host: 10.0.100.152
+port: 3307
+prefix: LOGD65802
+
+-----------------------------------------
+
+172.16.0.16
+3306
+CNPTEST1
+mpsgomes
+foox9shuKoiPho
+
+anomalie trouvées:
+
+Lorque je mets un code lieu naissance invalide i.e. 13 = le message est pas bonne. (capture d'écran);
+
+***********---------------
+
+test TNR - CNP
+
+La prime 202011900282763
+
+Le fond n° 202011900018567.
+
+
+contrat: 0054J-84512
+
+ALBA HERVE
+
+contrat: CONSEIL-JEDI
+
+adherent:  ABOUDOU ALAIN
+
+***********---------------
+
+test PRECOL - 176;
+
+moi tester precol 176;
+
+
+************---------------------
+
+TNR contrat
+
+formulaire: T34
+
+---------------------------------------------------
+Bancaires
+
+IBAN : FR76 1001 1326 5412 3456 7896 542
+BIC: AAAAAA29
